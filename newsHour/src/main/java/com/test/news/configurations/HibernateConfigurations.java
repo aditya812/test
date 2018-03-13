@@ -71,4 +71,8 @@ public class HibernateConfigurations {
 	        HibernateTransactionManager txManager = new HibernateTransactionManager(s);
 	        return txManager;
 	    }
+	    
+	    public void test() {
+	    	System.out.println("1234");
+	    }
 }
