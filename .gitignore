@@ -1,0 +1,7 @@
+*.prefs
+newsHour/.project
+newsHour/.settings/org.eclipse.wst.common.project.facet.core.xml
+newsHour/.classpath
+*.class
+newsHour/target/classes/sysadmin/login.html
+newsHour/target/
